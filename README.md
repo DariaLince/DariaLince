@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, data analytics, gaming and game design.
 - 🌱 I’m currently learning Python, SQL, math stat.
 - 💞️ I’m looking to collaborate on analytics, data science, game design.
-- 📫 How to reach me: Telegram @DariaLince.
+- 📫 How to reach me: Telegram @Daria_Lince.
 
 <!---
 DariaLince/DariaLince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
